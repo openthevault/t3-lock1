@@ -1,6 +1,6 @@
 # IBM Vault Communication Module Logs
 
-![communication on](https://img.shields.io/badge/communication-ON-brightgreen)
+![communication off](https://img.shields.io/badge/communication-off-red)
 
 ## What is this?
 This repository has the sole intent to register all of the communication logs' IDs made by the IBM Vault's communication module satellite which can be reached out by using the following [link](https://assistant-chat-us-south.watsonplatform.net/web/public/14111530-cc8c-42d1-980e-bfa46cb46cd8)
